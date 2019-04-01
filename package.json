@@ -1,0 +1,25 @@
+{
+  "name": "microservice-codegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appveen/microservice-codegen.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appveen/microservice-codegen/issues"
+  },
+  "homepage": "https://github.com/appveen/microservice-codegen#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "electron": "^4.1.3",
+    "express": "^4.16.4",
+    "log4js": "^4.1.0"
+  }
+}
